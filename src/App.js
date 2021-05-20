@@ -9,7 +9,7 @@ function App() {
     <Provider store={store}>
       <main>
         <h1>ED MANAGER</h1>
-        <Jugadores />
+        <Jugadores /> 
         <EquipoSeleccionado />
       </main>
     </Provider>
