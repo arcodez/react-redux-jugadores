@@ -8,7 +8,7 @@ function App() {
   return (
     <Provider store={store}>
       <main>
-        <h1>ED MANAGER</h1>
+        <h1>Abel Team Manager</h1>
         <Jugadores /> 
         <EquipoSeleccionado />
       </main>
