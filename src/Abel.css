@@ -1,0 +1,5 @@
+.contenedor-jugadores {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    overflow: hidden;
+}

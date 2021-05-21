@@ -1,4 +1,5 @@
 import "./App.css";
+import "./Abel.css"
 import { Provider } from "react-redux";
 import store from "./store";
 import Jugadores from "./components/Jugadores";
